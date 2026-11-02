@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instant Noodles</title>
+</head>
+<body>
+    <a href="../index.html">Home</a>
+    <h1>Instant Noodles</h1>
+     
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT08dYJ7y4mUVZeYrPpJh2_APVySo_ho3d2QN4dO8007g&s=10"><InstantNoodles>
+    <p>Instant noodles are a popular, convenient dish made from precooked and dried noodle blocks. Celebrated globally as a quick, versatile comfort food, they are typically boiled in water and mixed with a savory seasoning packet, and can easily be upgraded with fresh toppings like eggs, vegetables and proteins.</p>
+    
+    <h2>ingredients</h2>
+    
+    <ul>
+        <li>Instant noodle pack</li>
+        <li>Water</li>
+        <li>Seasoning packet</li>
+        <li>Egg</li>
+        <li>Vegetables</li>
+    </ul>
+    
+    <h2>Steps</h2>
+
+    <ol>
+        <li>Boil water in a small pot or saucepan</li>
+        <li>Add the noodle block and cook for 3 minutes until tender</li>
+        <li>Stir in the seasoning packet thoroughly</li>
+        <li>Add an egg or optional veggies if desired</li>
+        <li>Serve hot</li>
+    </ol>
+
+</body>
+</html>
